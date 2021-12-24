@@ -1,0 +1,7 @@
+npm i express
+npm i bcryptjs
+npm i express-async-handler
+npm i jsonwebtoken
+
+frontend
+npm i redux react-redux redux-thunk redux-devtools-extension
